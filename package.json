@@ -1,0 +1,25 @@
+{
+  "name": "gotiny-bot-discord",
+  "version": "1.0.0",
+  "description": "Link shortener bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robvanbakel/gotiny-bot-discord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robvanbakel/gotiny-bot-discord/issues"
+  },
+  "homepage": "https://github.com/robvanbakel/gotiny-bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "gotiny": "^1.1.0"
+  }
+}
