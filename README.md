@@ -1,3 +1,9 @@
+> ### GoTiny is no longer available
+>
+> Read more: [GoTiny is shutting down](https://github.com/robvanbakel/gotiny-api/issues/11)
+
+---
+
 # GoTiny Discord Bot
 
 The GoTiny Discord Bot is an example of easy integration with GoTiny through the [JavaScript SDK](https://github.com/robvanbakel/gotiny-sdk). After adding the Bot to a Discord server, it will sit in the background and listen for messages in all channels that contain links longer than 24 characters. The link is sent to the [GoTiny API](https://github.com/robvanbakel/gotiny-api) and immediately returned as a short link by the Bot in the same channel.
