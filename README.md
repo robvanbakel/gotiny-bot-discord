@@ -21,3 +21,4 @@ Creating short links with GoTiny is accessible for everyone at [gotiny.cc](https
 - [robvanbakel/gotiny-sdk](https://github.com/robvanbakel/gotiny-sdk)
 - [robvanbakel/gotiny-website](https://github.com/robvanbakel/gotiny-website)
 - [robvanbakel/gotiny-slack-bot](https://github.com/robvanbakel/gotiny-slack-bot)
+- [robvanbakel/gotiny-vscode-extension](https://github.com/robvanbakel/gotiny-vscode-extension)
